@@ -1,2 +1,2 @@
 # C-Learning
-My C programming practice projects
+My first C programming  projects.
